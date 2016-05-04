@@ -1,0 +1,53 @@
+/* Custom styles. */
+
+body {
+  color: #112146;
+}
+body, h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+a {
+  color: #0d28ff;
+}
+a:hover,
+a:visited:hover {
+  color: #ff0d57;
+  text-decoration: none;
+}
+
+.intro-message {
+  padding-bottom: 10%;
+  padding-top: 10%;
+}
+
+.intro-header {
+  background: url(../img/tugboat-blue.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.navbar-default {
+  background-color: #fff;
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+  color: #112146;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+  color: #0d28ff;
+}
+
+.img-shadow {
+  -webkit-box-shadow: 0 0 5px 0 #112146;
+  box-shadow: 0 0 5px 0 #112146;
+}
+
+.lead {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+}
+code {
+  color: #ff0d57;
+}
