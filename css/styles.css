@@ -16,13 +16,19 @@ a:visited:hover {
 }
 
 .intro-message {
-  padding-bottom: 10%;
-  padding-top: 10%;
+  padding-bottom: 5%;
+  padding-top: 6%;
 }
-
+.intro-message .title-link {
+  color: #ffffff;
+}
+.intro-message .img-responsive {
+  margin: 0 auto 10px auto;
+}
 .intro-header {
-  background: url(../img/tugboat-blue.jpg) no-repeat center center;
+  background-color: #112146;
   background-size: cover;
+  padding-bottom: 0;
 }
 
 .navbar-default {
