@@ -14,7 +14,9 @@ a:visited:hover {
   color: #ff0d57;
   text-decoration: none;
 }
-
+.img-responsive {
+  margin: auto;
+}
 .intro-message {
   padding-bottom: 5%;
   padding-top: 6%;
