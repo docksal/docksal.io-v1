@@ -25,7 +25,9 @@ a:visited:hover {
   color: #ffffff;
 }
 .intro-message .img-responsive {
+  display: inline;
   margin: 0 auto 10px auto;
+  vertical-align: top;
 }
 .intro-header {
   background-color: #112146;
