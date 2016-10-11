@@ -1,2 +1,2 @@
-# drude.github.io
-Drude website
+# docksal.io
+Docksal public website
